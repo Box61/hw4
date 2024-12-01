@@ -1,0 +1,36 @@
+
+body {
+	height: 1999px;
+	margin: 0;
+	font-family: 'Georgia', serif;
+	line-height: 1.9;
+}
+
+.sticky-header {
+position: sticky;
+top: 0;
+background-color: #ffa7af;
+color: #000000;
+padding: 10px 20px;
+font-size: 28px;
+font-weight: bold;
+z-index: 9;
+text-align: left;
+padding-left: 28px;
+margin-top: 7px;
+}
+
+p {
+margin: 15px 0;
+text-align: justify;
+font-size: 18px;
+}
+
+.block {
+    margin: 2px 0;
+    padding: 20px;
+    background-color: #ffffff;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
